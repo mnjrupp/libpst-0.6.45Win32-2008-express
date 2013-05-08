@@ -19,3 +19,7 @@ If you get any compile errors, this is where you would need to start.
 I have made the necessary changes to the source files, and noted, so as to compile in VC++.
 They should still compile in different environments.
 
+    Documentation for using the readpst.exe, as well as license can be found at the original developer's site here.
+   http://www.five-ten-sg.com/libpst/rn01re01.html
+  
+
